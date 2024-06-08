@@ -1,0 +1,192 @@
+[
+  {
+    "id": 65532,
+    "title": "Data Science Intern",
+    "company_name": "Google",
+    "company_url": "/company/google-1392204790",
+    "stipend": {
+      "salary": "₹ 50,000 /month",
+      "tooltip": null,
+      "salaryValue1": 50000,
+      "salaryValue2": null,
+      "salaryType": "fixed",
+      "currency": "INR ",
+      "scale": "permonth",
+      "large_stipend_text": false
+    },
+    "location_names": ["Munnar", "Delhi", "Lucknow", "Tarn Taran"],
+    "duration": "3 Months",
+    "start_date": "Starts Immediately"
+  },
+  {
+    "id": 65531,
+    "title": "Data Science Intern",
+    "company_name": "Google",
+    "company_url": "/company/google-1392204790",
+    "stipend": {
+      "salary": "₹ 5,500 /month",
+      "tooltip": null,
+      "salaryValue1": 5500,
+      "salaryValue2": null,
+      "salaryType": "fixed",
+      "currency": "INR ",
+      "scale": "permonth",
+      "large_stipend_text": false
+    },
+    "location_names": ["Tarn Taran", "Delhi", "Munnar"],
+    "duration": "3 Months",
+    "start_date": "Starts Immediately"
+  },
+  {
+    "id": 65381,
+    "title": "Administration Intern",
+    "company_name": "Google (Gurgaon, India)",
+    "company_url": "/company/google-1392204790",
+    "stipend": {
+      "salary": "₹ 20,000 /month",
+      "tooltip": null,
+      "salaryValue1": 20000,
+      "salaryValue2": null,
+      "salaryType": "fixed",
+      "currency": "INR ",
+      "scale": "permonth",
+      "large_stipend_text": false
+    },
+    "location_names": ["Banga (Philippines)"],
+    "duration": "2 Months",
+    "start_date": "Starts Immediately"
+  },
+  {
+    "id": 65524,
+    "title": "Business Analytics Intern",
+    "company_name": "Google",
+    "company_url": "/company/google-1392204790",
+    "stipend": {
+      "salary": "₹ 5,500 /month",
+      "tooltip": null,
+      "salaryValue1": 5500,
+      "salaryValue2": null,
+      "salaryType": "fixed",
+      "currency": "INR ",
+      "scale": "permonth",
+      "large_stipend_text": false
+    },
+    "location_names": ["Delhi", "Kera", "Tarn Taran"],
+    "duration": "3 Months",
+    "start_date": "Starts Immediately"
+  },
+  {
+    "id": 65522,
+    "title": "Administration Intern (Remote)",
+    "company_name": "Alkymia Tech Private Limited Testing SMS For Optimization 12-a@",
+    "company_url": "/company/alkymia-tech-private-limited-testing-sms-for-optimization-12-a-1681983044",
+    "stipend": {
+      "salary": "₹ 20,000 /month",
+      "tooltip": null,
+      "salaryValue1": 20000,
+      "salaryValue2": null,
+      "salaryType": "fixed",
+      "currency": "INR ",
+      "scale": "permonth",
+      "large_stipend_text": false
+    },
+    "location_names": [],
+    "duration": "5 Months",
+    "start_date": "Starts Immediately"
+  },
+  {
+    "id": 65517,
+    "title": "Brand Management Intern",
+    "company_name": "Google",
+    "company_url": "/company/google-1392204790",
+    "stipend": {
+      "salary": "₹ 5,500 /month",
+      "tooltip": null,
+      "salaryValue1": 5500,
+      "salaryValue2": null,
+      "salaryType": "fixed",
+      "currency": "INR ",
+      "scale": "permonth",
+      "large_stipend_text": false
+    },
+    "location_names": ["Delhi", "Parbhani", "Kera", "Lucknow"],
+    "duration": "3 Months",
+    "start_date": "Starts Immediately"
+  },
+  {
+    "id": 65515,
+    "title": "Brand Management Intern",
+    "company_name": "Google",
+    "company_url": "/company/google-1392204790",
+    "stipend": {
+      "salary": "₹ 5,500 /month",
+      "tooltip": null,
+      "salaryValue1": 5500,
+      "salaryValue2": null,
+      "salaryType": "fixed",
+      "currency": "INR ",
+      "scale": "permonth",
+      "large_stipend_text": false
+    },
+    "location_names": ["Delhi"],
+    "duration": "3 Months",
+    "start_date": "Starts Immediately"
+  },
+  {
+    "id": 65454,
+    "title": "Administration Intern (Remote)",
+    "company_name": "Decoy Enterpsie",
+    "company_url": "/company/decoy-enterpsie-1703833376",
+    "stipend": {
+      "salary": "₹ 30,000 /month",
+      "tooltip": null,
+      "salaryValue1": 30000,
+      "salaryValue2": null,
+      "salaryType": "fixed",
+      "currency": "INR ",
+      "scale": "permonth",
+      "large_stipend_text": false
+    },
+    "location_names": [],
+    "duration": "3 Months",
+    "start_date": "Starts Immediately"
+  },
+  {
+    "id": 65501,
+    "title": "Android App Development Intern",
+    "company_name": "Engineering Solutions",
+    "company_url": "/company/engineering-solutions-1664435070",
+    "stipend": {
+      "salary": "₹ 20,000 /month",
+      "tooltip": null,
+      "salaryValue1": 20000,
+      "salaryValue2": null,
+      "salaryType": "fixed",
+      "currency": "INR ",
+      "scale": "permonth",
+      "large_stipend_text": false
+    },
+    "location_names": ["Gurgaon"],
+    "duration": "2 Months",
+    "start_date": "Starts Immediately"
+  },
+  {
+    "id": 65504,
+    "title": "Product Management Intern",
+    "company_name": "Engineering Solutions",
+    "company_url": "/company/engineering-solutions-1664435070",
+    "stipend": {
+      "salary": "₹ 10,000 /month",
+      "tooltip": null,
+      "salaryValue1": 10000,
+      "salaryValue2": null,
+      "salaryType": "fixed",
+      "currency": "INR ",
+      "scale": "permonth",
+      "large_stipend_text": false
+    },
+    "location_names": ["Gurgaon"],
+    "duration": "3 Months",
+    "start_date": "Starts Immediately"
+  }
+]
